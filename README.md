@@ -18,7 +18,7 @@
 *   **Backend:** Python, Flask
 *   **Frontend:** JavaScript, HTML, CSS, Bootstrap
 *   **Database:** SQLite
-*   (Add any specific libraries or frameworks if relevant, e.g., `SQLAlchemy` if used for ORM)
+
 
 ## Getting Started
 
